@@ -1,0 +1,8 @@
+c:\users\winnerstivern\documents\visual studio 2013\Projects\DisplayImage\DisplayImage\bin\Debug\DisplayImage.exe.config
+c:\users\winnerstivern\documents\visual studio 2013\Projects\DisplayImage\DisplayImage\bin\Debug\DisplayImage.exe
+c:\users\winnerstivern\documents\visual studio 2013\Projects\DisplayImage\DisplayImage\bin\Debug\DisplayImage.pdb
+c:\users\winnerstivern\documents\visual studio 2013\Projects\DisplayImage\DisplayImage\obj\Debug\DisplayImage.csprojResolveAssemblyReference.cache
+c:\users\winnerstivern\documents\visual studio 2013\Projects\DisplayImage\DisplayImage\obj\Debug\DisplayImage.Properties.Resources.resources
+c:\users\winnerstivern\documents\visual studio 2013\Projects\DisplayImage\DisplayImage\obj\Debug\DisplayImage.csproj.GenerateResource.Cache
+c:\users\winnerstivern\documents\visual studio 2013\Projects\DisplayImage\DisplayImage\obj\Debug\DisplayImage.exe
+c:\users\winnerstivern\documents\visual studio 2013\Projects\DisplayImage\DisplayImage\obj\Debug\DisplayImage.pdb
